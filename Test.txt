@@ -3,3 +3,4 @@ Test02 - Created on BRANCH_01
 Test03 - Change on TRUNK
 Test04 - Making change on TRUNK, using TortoiseGIT
 Test05 - Making change on TRUNK, using Eclipse
+Test06 - Making change on TRUNK, imported project from remote location into Eclipse workspace directly, then made change
