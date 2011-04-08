@@ -2,7 +2,7 @@ Test01
 Test02 - Created on BRANCH_01
 Test03 - Change on TRUNK
 Test04 - Making change on TRUNK, using TortoiseGIT
-Test05 - Making change on TRUNK, using Eclipse
+Test05 - Making change on TRUNK, using Eclipse-ChangingThisLine
 Test06 - Making change on TRUNK, using Eclipse, wannna see if the diff tells me that every line in the file has changed since the last version, or just this line!??? Note, no empty\new-line after this point.
 Test07 - Making change on TRUNK, using Eclipse, second attempt...wannna see if the diff tells me that every line in the file has changed since the last version, or just this line!??? Note, no empty\new-line after this point.
 Test07 - Making change on TRUNK, using Eclipse, third attempt...wannna see if the diff tells me that every line in the file has changed since the last version, or just this line!??? Note, no empty\new-line after this point.
